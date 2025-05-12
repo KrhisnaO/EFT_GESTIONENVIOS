@@ -49,9 +49,9 @@ mvn clean install -DskipTests
 En la terminal de la instancia:
 
 ```bash
-git clone https://github.com/KrhisnaO/EXP3_S8_GESTIONENVIOS.git
+git clone https://github.com/KrhisnaO/EFT_GESTIONENVIOS.git
 ls
-cd EXP3_S8_GESTIONENVIOS
+cd EFT_GESTIONENVIOS
 ```
 
 3. Construir y levantar los contenedores
